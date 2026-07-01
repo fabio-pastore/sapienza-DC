@@ -60,7 +60,7 @@ Sapienza-DC was built to explore the feasibility of a fully local, domain-constr
      TOP_K_CHUNKS=        # Default: 10
      LLM_N_CTX=           # Default: 4608
      LLM_N_BATCH=         # Default: 512
-     LLM_MODEL_PATH=      # Default: /app/models/Ministral-3-3B-Instruct-2512-Q4_K_M.gguf
+     LLM_MODEL_PATH=      # Default: /models/Ministral-3-3B-Instruct-2512-Q4_K_M.gguf
      LLM_PROVIDER=        # Default: local
      OPENAI_API_KEY=
      OPENAI_BASE_URL=
